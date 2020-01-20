@@ -1,0 +1,4 @@
+City{cityName='mos', x=1, y=2}
+[Road{roadName='mos - iva', length=5.656854249492381}, Road{roadName='mos - spb', length=2.8284271247461903}]City{cityName='iva', x=5, y=6}
+[Road{roadName='mos - iva', length=5.656854249492381}, Road{roadName='spb - iva', length=2.8284271247461903}]City{cityName='spb', x=3, y=4}
+[Road{roadName='mos - spb', length=2.8284271247461903}, Road{roadName='spb - iva', length=2.8284271247461903}]
